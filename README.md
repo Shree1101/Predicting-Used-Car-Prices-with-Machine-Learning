@@ -5,22 +5,22 @@ This project presents a Car Price Prediction Model that utilizes machine learnin
 The project employs Linear Regression and Decision Tree models to analyze and predict car prices, offering valuable insights for car buyers, sellers, and dealerships.
 
 🚀 Features
-✔️ Data Cleaning & Transformation: Handling missing values, outlier detection, and categorical encoding.
-✔️ Exploratory Data Analysis (EDA): Scatter plots, correlation matrices, and visual insights into price determinants.
-✔️ Machine Learning Models: Implements Linear Regression and Decision Tree for price prediction.
-✔️ R Shiny Web App: Interactive UI for real-time price estimation.
-✔️ User Inputs: Allows users to select car model, year, mileage, and engine volume to get an estimated price.
+1 Data Cleaning & Transformation: Handling missing values, outlier detection, and categorical encoding.
+2 Exploratory Data Analysis (EDA): Scatter plots, correlation matrices, and visual insights into price determinants.
+3 Machine Learning Models: Implements Linear Regression and Decision Tree for price prediction.
+4 R Shiny Web App: Interactive UI for real-time price estimation.
+5 User Inputs: Allows users to select car model, year, mileage, and engine volume to get an estimated price.
 
 🛠️ Technologies Used
 Programming Language: R
 Libraries:
-tidyverse (Data Manipulation & Visualization)
-rpart.plot (Decision Tree Visualization)
-randomForest (Machine Learning)
-ggplot2 (Data Visualization)
-dplyr, tidyr, modeest (Data Cleaning & Feature Engineering)
-corrplot (Correlation Analysis)
-shiny (Web Application)
+ - tidyverse (Data Manipulation & Visualization)
+ - rpart.plot (Decision Tree Visualization)
+ - randomForest (Machine Learning)
+ - ggplot2 (Data Visualization)
+ - dplyr, tidyr, modeest (Data Cleaning & Feature Engineering)
+ - corrplot (Correlation Analysis)
+ - shiny (Web Application)
 
 📈 Model Insights
 🔹 Linear Regression: Provides interpretable and stable price predictions.
